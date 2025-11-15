@@ -3,7 +3,7 @@
 A responsive **GitHub User Finder** built using **HTML, CSS, JavaScript, and Font Awesome**.  
 Search for any GitHub user to view their profile information, stats, and latest repositories dynamically.
 
-🌐 **Live Demo:** [View here](https://yoyoooz.github.io/News-homepage/)  
+🌐 **Live Demo:** [View here](https://yoyoooz.github.io/Github-Finder/)  
 
 ---
 
